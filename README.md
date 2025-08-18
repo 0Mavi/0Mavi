@@ -2,7 +2,7 @@
 
 ##
 
-- 👩‍💻 Cursando o 7° período de Ciências da Computação
+- 👩‍💻 Cursando o 8° período de Ciências da Computação
 - 🎨 Atualmente focada em React e JavaScript
 
   
