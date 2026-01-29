@@ -2,8 +2,8 @@
 
 ##
 
-- 👩‍💻 Cursando o 8° período de Ciências da Computação
-- 🎨 Atualmente focada em React e JavaScript
+- 👩‍💻 Formada em Ciências da Computação
+- 🎨 Atualmente focada em React e Typescript
 
   
 
